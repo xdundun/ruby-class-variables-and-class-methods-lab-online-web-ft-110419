@@ -20,5 +20,6 @@ class Song
     @@artist
   end
 
+  def self.genres
 
 end
